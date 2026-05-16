@@ -32,7 +32,7 @@
 
 🖥️ Frameworks <br>
 
-[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,tailwind)](https://skillicons.dev)
 </p>
 
 <p>
