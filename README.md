@@ -3,6 +3,8 @@
 
 <h2>⚡  About me</h2>
 
+<p>Desarrollador junior en formación, actualmente finalizando DAW y construyendo proyectos con Java, Spring Boot, JavaScript, Express, MongoDB y Astro.</p>
+
 <p align="left">
 • 💻 Estudiante de programación <br>
 • ⚙️ Java & Spring Boot <br>
