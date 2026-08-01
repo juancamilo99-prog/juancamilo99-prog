@@ -49,13 +49,10 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,maven,github,git,docker)](https://skillicons.dev)
 </p>
 
-<h2 align="center">  🌐 Connect with me <h2>
+<h2 align="center">  🌐 Connect with me </h2>
 
 <p align="center">
-  <a href="https://discord.com/users/1236790963939184681">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-  </a>
-  <a href="www.linkedin.com/in/juan-camilo-montero-204944151">
+  <a href="https://www.linkedin.com/in/juancamilomontero/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" />
