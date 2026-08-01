@@ -49,12 +49,22 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,maven,github,git,docker)](https://skillicons.dev)
 </p>
 
-<h2 align="center">  🌐 Connect with me </h2>
+<h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juancamilomontero/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://portfolio-astro-tailwind.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=astro&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+
+  <a href="https://github.com/juancamilo99-prog" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/juancamilomontero/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:monterocamilo99@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
