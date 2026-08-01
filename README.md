@@ -16,7 +16,12 @@
 
 <p align="center">
 
-![Descripción](https://img.shields.io/docker/stars/<user>/<repo>) ![Descripción](https://img.shields.io/github/followers/<user>) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+[![GitHub followers](https://img.shields.io/github/followers/juancamilo99-prog?style=for-the-badge)](https://github.com/juancamilo99-prog?tab=followers)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juancamilo99-prog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancamilomontero/)
+![](https://komarev.com/ghpvc/?username=juancamilo99-prog&style=for-the-badge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juancamilo99-prog&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancamilo99-prog&layout=compact&theme=tokyonight)
 
 </p>
 
